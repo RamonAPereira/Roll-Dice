@@ -36,3 +36,13 @@
   background: #b7c88e; }
   .roll-button:hover {
     background: #fed67e; }
+
+.sides {
+  font-size: 1.7rem;
+  background: #fdf8e8; }
+  .sides__input {
+    max-width: 3rem;
+    min-height: 2rem;
+    font-size: 1.2rem;
+    background: #fdf8e8;
+    border: 3px solid #333; }

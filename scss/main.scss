@@ -46,3 +46,16 @@ $barlow: "Barlow", sans-serif;
     background: #fed67e;
   }
 }
+
+.sides {
+  font-size: 1.7rem;
+  background: #fdf8e8;
+
+  &__input {
+    max-width: 3rem;
+    padding: 2.2rem 0;
+    font-size: 1.7rem;
+    background: #fdf8e8;
+    border: 3px solid #333;
+  }
+}
